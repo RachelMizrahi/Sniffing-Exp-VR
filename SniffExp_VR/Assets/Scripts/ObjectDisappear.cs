@@ -32,7 +32,7 @@ public class ObjectDisappear : MonoBehaviour
     {
         // Get the audio source component attached to the object
         audioSource = GetComponent<AudioSource>();
-    }
+     }
 
     void OnTriggerEnter(Collider other)
     {
@@ -44,15 +44,6 @@ public class ObjectDisappear : MonoBehaviour
             objectCounter++;
             Debug.Log("object counter updated:" + objectCounter);
 
-            // Play the sound
-            if (audioSource != null)
-            {
-                audioSource.Play();
-            }
-                   
-            // If the object enters the trigger area, destroy it
-            Destroy(gameObject);
-             
             // Check if 8 objects have been placed
             if (objectCounter >= 8)
             {
@@ -64,8 +55,17 @@ public class ObjectDisappear : MonoBehaviour
                 objectCounter = 0;
             }
 
+            // Play the sound
+            if (audioSource != null)
+            {
+                audioSource.Play();
+            }
+   
             // Instantiate a new object on the table at the specific apear position
             Instantiate(objectPrefab, appearPosition.position, Quaternion.identity);
+            
+            // If the object enters the trigger area, destroy it
+            Destroy(gameObject);
         }
 
     }
@@ -74,7 +74,7 @@ public class ObjectDisappear : MonoBehaviour
     void ChangeAnswers()
     {
         // Make sure the array has more than one question
-        if (answers1.Length > 0)
+        if (answers1.Length > 0 && answers2.Length > 0)
         {
             // Pick a random question or select the next one (depending on your preference)
             string newAnswer1 = answers1[Random.Range(0, answers1.Length)];

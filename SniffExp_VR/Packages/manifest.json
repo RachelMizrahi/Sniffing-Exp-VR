@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.device-simulator.devices": "1.0.0",
-    "com.unity.render-pipelines.universal": "14.0.9",
+    "com.unity.render-pipelines.universal": "14.0.10",
     "com.unity.textmeshpro": "3.0.9",
     "com.unity.xr.interaction.toolkit": "2.5.2",
     "com.unity.xr.management": "4.5.0",

@@ -27,6 +27,9 @@ public class ObjectDisappear : MonoBehaviour
     // counter for the number of objects thet have been placed
     private static int objectCounter = 0;
 
+    private static int answerIndex1 = 1;
+    private static int answerIndex2 = 1;
+
     // This function is called when the object enters a trigger collider
     void Start()
     {
@@ -77,11 +80,11 @@ public class ObjectDisappear : MonoBehaviour
         if (answers1.Length > 0 && answers2.Length > 0)
         {
             // Pick a random question or select the next one (depending on your preference)
-            string newAnswer1 = answers1[Random.Range(0, answers1.Length)];
-            string newAnswer2 = answers2[Random.Range(0, answers2.Length)];
-            // Change the question text in the UI
-            AnswerText1.text = newAnswer1;
-            AnswerText2.text = newAnswer2;
+            AnswerText1.text = answers1[answerIndex1];
+            AnswerText2.text = answers2[answerIndex2];
+
+            answerIndex1 = (answerIndex1 + 1);
+            answerIndex2 = (answerIndex2 + 1);
         }
         
     }

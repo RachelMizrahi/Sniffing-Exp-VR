@@ -443,6 +443,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &21556910
 GameObject:
   m_ObjectHideFlags: 0
@@ -1052,6 +1055,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &54430674
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1398,6 +1404,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &68346529
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1543,6 +1552,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &68346533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2123,6 +2135,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!65 &87353220
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2458,6 +2473,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &148673121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2752,6 +2770,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &150649442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3061,6 +3082,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &174896355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3487,6 +3511,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &207485406
 GameObject:
   m_ObjectHideFlags: 0
@@ -3999,6 +4026,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &338110532
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4670,6 +4700,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &444979026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5001,6 +5034,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &491677214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5131,6 +5167,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &491677218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5486,6 +5525,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &514342459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5784,6 +5826,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &514752769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6264,6 +6309,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &542659984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6797,10 +6845,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 599348772}
-    - targetCorrespondingSourceObject: {fileID: 8575389795609162483, guid: 72f7713924360c14295e85883d1da829,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 599348771}
   m_SourcePrefab: {fileID: 100100000, guid: 72f7713924360c14295e85883d1da829, type: 3}
 --- !u!4 &599348769 stripped
 Transform:
@@ -6814,102 +6858,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 599348768}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &599348771
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 599348770}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!114 &599348772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6944,6 +6892,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &599348773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7376,6 +7327,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &622124594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7685,6 +7639,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &625092729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8013,6 +7970,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &639060695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8337,6 +8297,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &648989098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8683,6 +8646,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &681535965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9134,6 +9100,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &723925118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9406,6 +9375,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &748551031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9898,6 +9870,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &816193616
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10144,6 +10119,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &843155338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10450,6 +10428,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &846132580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10854,6 +10835,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &897823016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10980,6 +10964,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &897823020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11304,6 +11291,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &935280038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11910,6 +11900,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &995748320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12180,6 +12173,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1024324950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12740,6 +12736,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1127773571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13140,6 +13139,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1166119247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13568,6 +13570,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1222470878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14221,6 +14226,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1237229216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2648185706620242210, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -14497,6 +14505,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1294580451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14896,6 +14907,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1393564932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15220,6 +15234,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1428810480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15872,6 +15889,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1489377990
 GameObject:
   m_ObjectHideFlags: 0
@@ -15943,6 +15963,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1489377993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16440,6 +16463,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1549700024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16804,6 +16830,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1560483203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17124,6 +17153,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1613719891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17630,6 +17662,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1632262233 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -17697,6 +17732,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1632262237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18021,6 +18059,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1649634655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18395,6 +18436,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1694369873
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18820,6 +18864,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1709938172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19147,6 +19194,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1719782788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19632,6 +19682,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1745300714
 GameObject:
   m_ObjectHideFlags: 0
@@ -19800,6 +19853,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1795732743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20263,6 +20319,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &1881977454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20361,10 +20420,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1886287999}
-    - targetCorrespondingSourceObject: {fileID: 8575389795609162483, guid: 72f7713924360c14295e85883d1da829,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1886288000}
   m_SourcePrefab: {fileID: 100100000, guid: 72f7713924360c14295e85883d1da829, type: 3}
 --- !u!1 &1886287990 stripped
 GameObject:
@@ -20613,102 +20668,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
---- !u!82 &1886288000
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886287990}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1907419703 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5506770061650608676, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -20835,10 +20797,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1911315464}
-    - targetCorrespondingSourceObject: {fileID: 8575389795609162483, guid: 72f7713924360c14295e85883d1da829,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1911315463}
   m_SourcePrefab: {fileID: 100100000, guid: 72f7713924360c14295e85883d1da829, type: 3}
 --- !u!4 &1911315461 stripped
 Transform:
@@ -20852,102 +20810,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1911315460}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &1911315463
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1911315462}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!114 &1911315464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20982,6 +20844,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1911315465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21514,6 +21379,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1001 &1951344985
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21644,6 +21512,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1951344989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22301,6 +22172,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &1955874911 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -22368,6 +22242,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1955874915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22662,6 +22539,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &1960513352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23415,6 +23295,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!1 &2009752620 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 924612623862088075, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -23584,6 +23467,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &2014171754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23861,10 +23747,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 2016181383}
-    - targetCorrespondingSourceObject: {fileID: 8575389795609162483, guid: 72f7713924360c14295e85883d1da829,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2016181382}
   m_SourcePrefab: {fileID: 100100000, guid: 72f7713924360c14295e85883d1da829, type: 3}
 --- !u!1 &2016181380 stripped
 GameObject:
@@ -23878,102 +23760,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2016181379}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &2016181382
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2016181380}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!114 &2016181383
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24008,6 +23794,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &2016181384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24440,6 +24229,9 @@ MonoBehaviour:
   - expensive
   - edible
   - fragile
+  collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
+  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  flashDuration: 0.3
 --- !u!114 &2102554321
 MonoBehaviour:
   m_ObjectHideFlags: 0

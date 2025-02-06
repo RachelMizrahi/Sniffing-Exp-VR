@@ -32,10 +32,15 @@ public class ObjectDisappear : MonoBehaviour
     // Reference to the sound clip
     public AudioClip collisionSound;
 
-    // Flash effect duration and color
-   // public Color flashColor = Color.yellow;
-   // public float flashDuration = 0.3f;
+    // Counter for tracking questions
+    private static int currentQuestion = 0;
+    private const int totalQuestions = 8;
 
+    // Flash effect duration and color
+    // public Color flashColor = Color.yellow;
+    // public float flashDuration = 0.3f;
+
+  
     void Start()
     {
         // Get the audio source component attached to the object
@@ -84,6 +89,13 @@ public class ObjectDisappear : MonoBehaviour
             // Check if 8 objects have been placed
             if (objectCounter >= 8)
             {
+                currentQuestion++;
+                if (currentQuestion >= totalQuestions)
+                {
+                    Destroy(AnswerText1);
+                    Destroy(AnswerText2);
+                    return; // Prevent further action after game over
+                }
                 Debug.Log("changing answers - objectCounter: " + objectCounter);
                 // Change the answers (after 8 objects)
                 ChangeAnswers();
@@ -91,6 +103,7 @@ public class ObjectDisappear : MonoBehaviour
                 // Reset the counter for the next round
                 objectCounter = 0;
             }
+
 
             // Instantiate a new object on the table at the specific appear position
             Instantiate(objectPrefab, appearPosition.position, Quaternion.identity);
@@ -129,4 +142,5 @@ public class ObjectDisappear : MonoBehaviour
             answerIndex2 = (answerIndex2 + 1);
         }
     }
+
 }

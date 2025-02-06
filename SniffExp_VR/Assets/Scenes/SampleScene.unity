@@ -444,8 +444,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &21556910
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,8 +1054,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &54430674
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1405,8 +1401,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &68346529
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1553,8 +1547,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &68346533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2136,8 +2128,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!65 &87353220
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2474,8 +2464,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &148673121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2771,8 +2759,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &150649442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3083,8 +3069,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &174896355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3512,8 +3496,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &207485406
 GameObject:
   m_ObjectHideFlags: 0
@@ -4027,8 +4009,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &338110532
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4701,8 +4681,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &444979026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5035,8 +5013,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &491677214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5168,8 +5144,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &491677218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5526,8 +5500,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &514342459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5827,8 +5799,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &514752769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6310,8 +6280,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &542659984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6513,84 +6481,6 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -7989139905624186321, guid: 217a93691959ffc4b917b2fd6f90ad25, type: 3}
---- !u!1001 &548976766
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6598815579406187026, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_Name
-      value: XR Device Simulator
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
 --- !u!1 &554249547
 GameObject:
   m_ObjectHideFlags: 0
@@ -6893,8 +6783,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &599348773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7328,8 +7216,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &622124594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7640,8 +7526,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &625092729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7971,8 +7855,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &639060695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8298,8 +8180,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &648989098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8647,8 +8527,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &681535965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9101,8 +8979,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &723925118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9376,8 +9252,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &748551031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9871,8 +9745,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &816193616
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10120,8 +9992,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &843155338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10429,8 +10299,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &846132580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10836,8 +10704,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &897823016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10965,8 +10831,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &897823020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11292,8 +11156,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &935280038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11901,8 +11763,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &995748320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12174,8 +12034,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1024324950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12737,8 +12595,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1127773571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13140,8 +12996,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1166119247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13571,8 +13425,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1222470878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14227,8 +14079,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1237229216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2648185706620242210, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -14506,8 +14356,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1294580451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14908,8 +14756,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1393564932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15235,8 +15081,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1428810480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15890,8 +15734,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1489377990
 GameObject:
   m_ObjectHideFlags: 0
@@ -15964,8 +15806,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1489377993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16464,8 +16304,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1549700024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16831,8 +16669,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1560483203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17154,8 +16990,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1613719891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17663,8 +17497,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1632262233 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -17733,8 +17565,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1632262237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18060,8 +17890,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1649634655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18437,8 +18265,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1694369873
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18865,8 +18691,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1709938172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19195,8 +19019,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1719782788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19683,8 +19505,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1745300714
 GameObject:
   m_ObjectHideFlags: 0
@@ -19854,8 +19674,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1795732743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20320,8 +20138,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &1881977454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20669,8 +20485,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1907419703 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5506770061650608676, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -20845,8 +20659,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1911315465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21380,8 +21192,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1001 &1951344985
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21513,8 +21323,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1951344989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22173,8 +21981,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &1955874911 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3438127250079161632, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -22243,8 +22049,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1955874915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22540,8 +22344,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &1960513352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23296,8 +23098,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!1 &2009752620 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 924612623862088075, guid: ff25b715f02cfd947b8608c3d7de53c9,
@@ -23468,8 +23268,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &2014171754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23795,8 +23593,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &2016181384
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24230,8 +24026,6 @@ MonoBehaviour:
   - edible
   - fragile
   collisionSound: {fileID: 8300000, guid: 48c2b3f4f35e92a479f6bec5fde37e49, type: 3}
-  flashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  flashDuration: 0.3
 --- !u!114 &2102554321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24494,7 +24288,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 410087041}
-  - {fileID: 548976766}
   - {fileID: 978541451}
   - {fileID: 1223071784}
   - {fileID: 1436865206}

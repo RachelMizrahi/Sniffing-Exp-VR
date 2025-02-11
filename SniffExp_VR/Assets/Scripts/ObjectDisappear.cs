@@ -57,6 +57,8 @@ public class ObjectDisappear : MonoBehaviour
         {
             audioSource.clip = collisionSound;
         }
+
+
     }
 
     void OnTriggerEnter(Collider other)
@@ -104,12 +106,31 @@ public class ObjectDisappear : MonoBehaviour
                 objectCounter = 0;
             }
 
-
+            if (objectPrefab.name == "Heating_Machine" || objectPrefab.name == "Heating_Machine (1)" || objectPrefab.name == "Heating_Machine (2)" || objectPrefab.name == "Heating_Machine (3)" || objectPrefab.name == "phone2k" || objectPrefab.name == "phone2k (1)" || objectPrefab.name == "phone2k (2)" || objectPrefab.name == "phone2k (3)" || objectPrefab.name == "Ice cream stick C" || objectPrefab.name == "Ice cream stick C (1)" || objectPrefab.name == "Ice cream stick C (2)" || objectPrefab.name == "Ice cream stick C (3)")
+            {
+                Instantiate(objectPrefab, appearPosition.position, Quaternion.Euler(90, 0, 0));
+            }
+            else if (objectPrefab.name == "shovel" || objectPrefab.name == "shovel (1)" || objectPrefab.name == "shovel (2)" || objectPrefab.name == "shovel (3)" || objectPrefab.name == "Pixace (1)" || objectPrefab.name == "Pixace" || objectPrefab.name == "Pixace (2)" || objectPrefab.name == "Pixace (3)")
+            {
+                Instantiate(objectPrefab, appearPosition.position, Quaternion.Euler(270, 90, 0));
+            }
+            else if (objectPrefab.name == "necklaces_s2_05" || objectPrefab.name == "necklaces_s2_05 (1)" || objectPrefab.name == "necklaces_s2_05 (2)" || objectPrefab.name == "necklaces_s2_05 (3)")
+            {
+                Instantiate(objectPrefab, appearPosition.position, Quaternion.Euler(270, 0, 180));
+            }
+            
+            else
+            {
+                Instantiate(objectPrefab, appearPosition.position, Quaternion.identity);
+            }
             // Instantiate a new object on the table at the specific appear position
-            Instantiate(objectPrefab, appearPosition.position, Quaternion.identity);
+           // GameObject newObject = Instantiate(objectPrefab, appearPosition.position, Quaternion.identity);
+
+
 
             // If the object enters the trigger area, destroy it
             Destroy(gameObject);
+
         }
     }
 
